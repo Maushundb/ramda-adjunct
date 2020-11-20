@@ -7,7 +7,4 @@
 /coverage
 /tmp-test-bundle.js
 /test-results.xml
-/es
-/lib
-/dist
 /ramda-adjunct-*.*.*.tgz
